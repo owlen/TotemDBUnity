@@ -1,4 +1,6 @@
-# This Repo is DEPRECATRED and will be removed soon!
+# This Repo is DEPRECATRED and no longer used
+As of 26-06-2022, following some refactoring, this repository is no longer needed and is no longer maintained.
+
 
 # TotemDB Wrapper for Unity! 
 Totem DB wrapper for unity
